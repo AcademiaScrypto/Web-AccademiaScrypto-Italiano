@@ -1,21 +1,21 @@
 # 🥚 Incubix
 
-La incubadora nace el mismo día que pensamos en crear la Academia Scrypto. No podemos concebir enseñar a programar sin a la vez poner a disposición de los mejores alumnos, aquellos que más se han **esforzado**, la posibilidad de poder practicar en casos reales aquello que aprenden y a la vez poder participar en la elaboración de **proyectos maravillosos** que previamente han pasado por un escrupuloso proceso de selección.
+L'Incubatrice è nata lo stesso giorno in cui abbiamo pensato di creare l'Accademia Scrypto. Infatti, non si può concepire l'insegnamento senza mettere a disposizione dei nostri migliori alunni, quelli che hanno **studiato** di più, la possibilità di lavorare su casi reali ed esporre i propri risultati. E in alcuni casi anche di partecipare a **progetti meravigliosi** che hanno passato un'attenta e scrupolosa selezione da parte nostra. 
 
-En la incubadora **Incubix** los proyectos son huevos 🥚 durante el tiempo en que se da forma a la idea, se definen los conceptos y se describen los procesos. Un vez terminado el proceso de gestación al proyecto le pueden pasar dos cosas. 🍳 Que el proyecto sea un fiasco y nos lo comamos, o que 🐣 el proyecto empiece a salir del cascaron en el momento que empezamos a codificar las primeras iteraciones iniciales del proyecto.
+Nell'incubatrice **Incubix** i progetti si possono paragonare a delle uova 🥚 Durante l’incubazione viene plasmata l'idea, si definiscono concetti e si descrivono gli iter. Una volta terminato questo processo possono succedere due cose. 🍳 O il progetto fallisce e lo mangiamo, oppure 🐣 il progetto inizia a schiudersi nel momento in cui iniziamo a codificare le prime iterazioni. 
 
-### Proyectos seleccionados 
-Los proyectos ha sido seleccionado partiendo de varias premisas. Primero que tengan visos de ser **factibles tecnologicamente**. Segundo que las personas detras de los proyectos tengan la **suficiencia** como para afrontar el camino. Y tercero que cubra algún aspecto que sea **innovador** y pueda sacar el máximo provecho a Scrypto y la red Radix. 
+### Progetti Selezionati 
+I progetti vengono scelti sulla base di diverse caratteristiche. Primo, che siano **tecnologicamente realizzabili**. Secondo, che le persone dietro all'idea abbiamo **sufficienti** competenze per andare avanti. E terzo, che siano **innovativi** e che possano contribuire positivamente allo sviluppo di Scrypto e della Rete Radix. 
 
 <div class="card mb-3">
   <img src="/Bio.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">🌳 EcoSystem, EL PODER DE LA SOSTENIBILIDA</h5>
-    <p class="card-text">Proyecto basado en la reducción de la huella de carbono mediante la certificación digital.</p>
+    <h5 class="card-title">🌳 EcoSystem, IL POTERE DELLA SOSTENIBILITA'</h5>
+    <p class="card-text">Progetto basato sulla riduzione dell'impronta del carbonio attraverso la certificazione digitale.</p>
     <p class="card-text">
-    Estado: 🥚 Desarrollo
+    Stato: 🥚 In Svilyppo
     </p>
-    <p class="card-text"><small class="text-muted">Actualizado 27/02/2022</small></p>
+    <p class="card-text"><small class="text-muted">Aggiornamento 27/02/2022</small></p>
   </div>
 </div>
 
@@ -23,14 +23,14 @@ Los proyectos ha sido seleccionado partiendo de varias premisas. Primero que ten
   <img src="/identity.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">🧬 My Identity Labs. Privacy is not secrecy.</h5>
-    <p class="card-text">Laboratorio de identidad digital que busca crear soluciones partiendo del respeto a la privacidad dentro de un sistema descentralizado y sin confianza.</p>
+    <p class="card-text">Laboratorio di identità digitale che cerca di creare soluzioni basate sul rispetto della privacy all'interno di un sistema decentralizzato e trustless.</p>
     <p class="card-text">
-    Estado: 🥚 Desarrollo
+    Stato: 🥚 In Sviluppo
     </p>
     <p class="card-text">
     Web: <a href="https://myidentitylabs.com/">myidentitylabs.com</a>
     </p>
-    <p class="card-text"><small class="text-muted">Actualizado 27/02/2022</small></p>
+    <p class="card-text"><small class="text-muted">Aggiornamento 27/02/2022</small></p>
   </div>
 </div>
 
@@ -38,13 +38,13 @@ Los proyectos ha sido seleccionado partiendo de varias premisas. Primero que ten
   <img src="/cerveza.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">🍺 Cerveza Vereda, cerveza rural.</h5>
-    <p class="card-text">Dispensador de cerveza previo pago con tokens. Proyecto de ingeniería basado en Rapberry pi zero.</p>
+    <p class="card-text">Distributore di birra a pagamento con token. Progetto di ingegneria basato su Rapberry pi zero.</p>
     <p class="card-text">
-    Estado: 🥚 Desarrollo
+    Stato: 🥚 In Sviluppo
     </p>
     <p class="card-text">
     Web: <a href="https://cervezavereda.com/">cervezavereda.com</a>
     </p>
-    <p class="card-text"><small class="text-muted">Actualizado 27/02/2022</small></p>
+    <p class="card-text"><small class="text-muted">Aggiornamento 27/02/2022</small></p>
   </div>
 </div>
