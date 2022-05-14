@@ -1,6 +1,6 @@
-![Academia](/2.png)
+![Academia](/2_it.png)
 
-# 🏫 La Academia Scrypto v.0.4
+# 🏫 La Academia Scrypto v.0.4 versión en Italiano
 ## Visión
 Esta academia nace con el **objetivo de formar** en los próximos meses a decenas de personas en el **desarrollo de 'Contratos inteligentes'**. No importa si tienes experiencia previa en programación o en la conocida 'blockchain' solo has de poner tu tiempo y ganas al servicio de la innovación tecnológica.    
 
@@ -27,13 +27,12 @@ Actualmente (28/04/2022) hay **+78** alumnos.
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row g-0 justify-content-md-center">
     <div class="col-md-4">
-      <img src="https://www.tvyumuri.cu/wp-content/uploads/2021/07/full_tn_new.d488e720c49a.png" class="img-fluid rounded-start" alt="...">
+      <img src="https://static-assets.clubhouseapi.com/static/img/img_app_icon_wws.1c1a80b353ce.png" class="img-fluid rounded-start" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Educa Cripto</h5>
-        <p class="card-text">El Club más activo sobre criptomonedas en español. No somos maximalistas de Bitcoin, nos encantan las finanzas
-        descentralizadas (DeFi), invertimos y comentamos todo tipo de proyectos, tenemos speakers expertos en NFT. Somos gente normal que compartimos nuestros puntos de vista y opiniones.</p>
+        <h5 class="card-title">Nombre</h5>
+        <p class="card-text">XXXXX blablablablablabla</p>
         <p class="card-text"><small class="text-muted"><a href="https://www.clubhouse.com/club/educa-cripto">WebSite</a></small></p>
       </div>
     </div>
@@ -42,9 +41,9 @@ Actualmente (28/04/2022) hay **+78** alumnos.
 
 ## Donaciones
 ¿Quieres apoyarnos? Puedes hacerlo de tres maneras:
-- Puedes delegar tus XRD en el nodo 🏖️ [Suena Merengue](https://suenamerengue.com/)
-- Puedes ayudar a otros en su formación creando contenido formativo relativo a Scrypto, ponte en contacto a traves del correo: 📧 **administracion@academiascrypto.com** o [Discord](https://discord.gg/z5zWkarkKy) y le daremos difusión.
-- Por ultimo puedes realizar 🤑 donaciones directamente a la siguiente direccion de Radix XRD:
+- Puedes delegar tus XRD en el nodo 🏖️ [XXXX]()
+- Puedes ayudar a otros en su formación creando contenido formativo relativo a Scrypto, ponte en contacto a traves del correo: 📧 **gestione@accademiascrypto.com** o [Discord]() y le daremos difusión.
+- Por ultimo puedes realizar 🤑 donaciones directamente a la siguiente dirección de Radix XRD:
 ```  
-    rdx1qspqp0nyg3a3dj7e8vkd2ecxrgnrgvsl4d72efx2a4jwavfn995652c7f6uqy
+    xxx
 ```
