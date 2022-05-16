@@ -1,28 +1,29 @@
 ![Academia](/2.png)
 
-# 🏫 La Academia Scrypto v.0.4
-## Visión
-Esta academia nace con el **objetivo de formar** en los próximos meses a decenas de personas en el **desarrollo de 'Contratos inteligentes'**. No importa si tienes experiencia previa en programación o en la conocida 'blockchain' solo has de poner tu tiempo y ganas al servicio de la innovación tecnológica.    
+# 🏫 Accademia Scrypto v.0.4
+## Missione
+L'Accademia nasce con **l'obiettivo di formare** nei prossimi mesi decine di persone nello **sviluppo di "Smart Contract"**. Poco importa se non avete precedenti esperienze di programmazione o zero conoscenze del mondo 'blockchain', quello che dovete fare è solo investire un po' di tempo e denaro nell'innovazione tecnologica.    
 
-Todas las semanas se irá agregando nuevo contenido para que de forma progresiva todo el que lo desee, de forma **totalmente gratuita**, pueda aprender a desarrollar 'Contratos Inteligentes' conocidos en Radix como 'Componentes' que son la base de las dApps o aplicaciones descentralizadas. A su vez te proporcionaremos las herramientas necesarias para que puedas desarrollar tus propias dApps tanto a nivel de **Front-End** como **Back-End**.
+Ogni settimana verranno aggiunti nuovi contenuti affinchè che tutti coloro che lo desiderano, in modo **assolutamente gratuito**, possano imparare a sviluppare 'Smart Contract', conosciuti su Radix col nome di 'Components', Componenti, che sono la base delle dApps o applicazioni decentralizzate. Allo stesso tempo, vi verranno dati gli strumenti necessari per sviluppare dApp sia dal lato **Front-End** che **Back-End**.
 
-## Inscripción
-No hay inscripción como tal, solo tienes que seguir el contenido publicado en esta web. Todas las semanas publicaremos nuevo contenido. Como ayuda adicional ponemos a tu disposición un [Canal de Discord](https://discord.gg/z5zWkarkKy) donde podrás recibir notificaciones, noticias y de forma semanal [tutorización](/academia/eventos.md) online, así como la ayuda de tus compañeros de curso. ¡Únete al grupo! y empieza a formarte. 
+## Iscrizione
+Non c'è registrazione in quanto tale, dovete solo seguire i contenuti presenti su questo sito. Tutte le settimane pubblichiamo nuovi articoli. Come ulteriore aiuto mettiamo a vostra disposizione un [Canale Discord](https://discord.gg/z5zWkarkKy) dove potrete ricevere notifiche, notizie e [tutorial](/academia/eventos.md) online con cadenza settimanale, oltre ai consigli dei compagni di corso. Unisciti al gruppo! e inizia a imparare. 
 
-[<button type="button" class="btn btn-outline-dark">Bienvenido futuro Desarrollador, sigue la Ruta 🧭</button>](/ruta/)
+[<button type="button" class="btn btn-outline-dark">Benvenuto futuro programmatore, segui il Percorso 🧭</button>](/ruta/)
 
-## Los alumnos
-Actualmente (28/04/2022) hay **+78** alumnos.
+## Gli alunni
+Al momento (28/04/2022) abbiamo **+78** alunni.
 
-## Hoja de Ruta del proyecto
-- **Noviembre 2021**: (Completado)
-    Nacimiento de la **Academia Scrypto** y primeras lecciones así como tutorías. Durante los siguientes meses dotaremos a los alumnos de los conocimientos necesarios como para poder diseñar y escribir sus propios contratos inteligentes así como otras habilidades en Rust, web y el mundo DeFi.
-- **Segundo trimestre 2022**: (En progreso)
-    Dara comienzo el proyecto [**Incubix**](/incubix/README.md) una incubadora de startups basadas en Radix y Scrypto donde los alumnos podrán empezar a poner en práctica todo su talento y potencial. Los proyectos serán como pequeñas semillas que irán creciendo en nuestro *invernadero virtual* esperando la llegada del buen tiempo para ser trasplantadas a la mainnet de Radix con el inicio de Babilonia. 
+## Roadmap del progetto
+- **Novembre 2021**: (Completato)
+    Nascita della **Academia Scrypto**, la versionale originale in lingua Spagnola di **Accademia Scrypto**.  Cominciano le prime lezioni così come i tutorial. Nei mesi successivi agli studenti vengono fornite le conoscenze necessarie per iniziare a progettare e scrivere i propri Smart Contract. Vengono date anche nozioni di Rust, web e DeFi. 
+- **Secondo trimestre 2022**: (In Sviluppo)
+   Inizia il progetto [**Incubix**](/incubix/README.md) un'incubatrice di startup basate su Radix e Scrypto dove gli studenti possono iniziare a mettere in pratica il proprio talento e le proprie potenzialità. I progetti sono come piccoli semi che crescono nella nostra *serra virtuale* in attesa dell'arrivo del bel tempo per essere trapiantati nella rete principale Radix con l'avvio di Babylon. 
+   Nasce **Accademia Scrypto**, la versione italiana di **Academia Scrypto** dove i contenuti spagnolo vengono tradotti per la community italiana, il cui interesse per Radix e Scrypto è crescente.
 - **2023**:
-    Con la llegada de Babilonia seleccionaremos aquellos proyectos con mayor potencial de crecimiento, desarrollados al amparo de **Incubix**, y junto a mentores especializados, inversores y empresas del sector les ayudaremos a crecer de forma progresiva hasta alcanzar el éxito. 
+    Con la realese di Babylon selezioneremo quei progetti con il maggior potenziale di crescita, sviluppati sotto l'egida di **Incubix**, e insieme a mentori specializzati, investitori e aziende del settore, li aiuteremo a crescere fino al raggiungimento del successo. 
 
-## Socios colaboradores
+## Collaborati
 
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row g-0 justify-content-md-center">
@@ -32,19 +33,18 @@ Actualmente (28/04/2022) hay **+78** alumnos.
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Educa Cripto</h5>
-        <p class="card-text">El Club más activo sobre criptomonedas en español. No somos maximalistas de Bitcoin, nos encantan las finanzas
-        descentralizadas (DeFi), invertimos y comentamos todo tipo de proyectos, tenemos speakers expertos en NFT. Somos gente normal que compartimos nuestros puntos de vista y opiniones.</p>
+        <p class="card-text">Il Club più attivo sulle criptovalute in spagnolo. Non siamo massimalisti di Bitcoin, amiamo la finanza decentralizzato (DeFi), investiamo e commentiamo tutti i tipi di progetti, abbiamo relatori esperti su NFT. Siamo persone normali che condividono le nostre opinioni e punti di vista.</p>
         <p class="card-text"><small class="text-muted"><a href="https://www.clubhouse.com/club/educa-cripto">WebSite</a></small></p>
       </div>
     </div>
   </div>
 </div>
 
-## Donaciones
-¿Quieres apoyarnos? Puedes hacerlo de tres maneras:
-- Puedes delegar tus XRD en el nodo 🏖️ [Suena Merengue](https://suenamerengue.com/)
-- Puedes ayudar a otros en su formación creando contenido formativo relativo a Scrypto, ponte en contacto a traves del correo: 📧 **administracion@academiascrypto.com** o [Discord](https://discord.gg/z5zWkarkKy) y le daremos difusión.
-- Por ultimo puedes realizar 🤑 donaciones directamente a la siguiente direccion de Radix XRD:
+## Donazioni
+Vuoi sostenerci? Puoi farlo in tre modi:
+- Puoi delegare i tuoi XRD al nodo 🏖️ [Suena Merengue](https://suenamerengue.com/)
+- Puoi aiutare gli altri nella loro formazione creando contenuti didattici relativi a Scrypto, contattaci all'email: 📧 **administracion@academiascrypto.com** o [Discord](https://discord.gg/z5zWkarkKy) e noi spargeremo la voce.
+- In ultimo puoi aiutarci con le 🤑 donazioni direttamente al seguente indirizzo di Radix XRD:
 ```  
     rdx1qspqp0nyg3a3dj7e8vkd2ecxrgnrgvsl4d72efx2a4jwavfn995652c7f6uqy
 ```
