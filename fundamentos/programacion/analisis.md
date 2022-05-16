@@ -1,50 +1,50 @@
-# Proceso Desarrollo - Análisis
+# Processo di Sviluppo - Analisi
 
 ![Análisis](/analisis.png)
 
-### Modelo en cascada
-Aunque existen diferentes modelos para definir el ciclo de vida de un software, en este curso vamos ha hablar del modelo *Cascada* que es el más sencillo con el que empezar a programar. En este modelo las fases anteriores funcionarán una detrás de la otra de manera lineal. De este modo, solo cuando una fase termine se podrá continuar con la siguiente, y así progresivamente.
+### Modello a Cascata
+Nonostante esistano diversi modelli per definire il ciclo vitale di un software, in questo corso parleremo del Waterfall Model, che è il più semplice con cui iniziare a programmare. Secondo il Modello a Cascata, il processo di realizzazione del software è strutturato in una sequenza lineare di fasi. Solo al termine di una fase si può proseguire con la successiva, e così via.
 
 ::: tip
-- **"Pensar antes de programar" 😉**
+- **"Pensare prima di programmare" 😉**
 :::
 
-### Análisis
+### Analisi
 
-La fase de análisis define los requisitos del software que hay que desarrollar. Comenzaremos con una entrevista individual o una dinámica de grupo con los clientes. En ella también tendremos que saber lo que el cliente quiere o lo que cree que necesita.
+La fase di analisi definisce i requisiti del software da sviluppare. Inizieremo con un colloquio individuale o una riunione di gruppo con i clienti. Dovremo indagare che cosa vuole di preciso il cliente o che cosa pensa di aver bisogno.
 
-Es importante que se mantenga una comunicación bilateral, y es necesario un consenso por ambas partes para llegar a definir los requisitos del software. Para ello se crea un informe ERS (Especificación de Requisitos del Sistema).
+La comunicazione bidirezionale è importante ed è necessario il consenso di entrambe le parti per arrivare alla definizione dei requisiti del software. A tale scopo, viene creato un report ERS (System Requirements Specification). 
 
-En esta fase, los requisitos que se deben definir son:
+In questa fase i requisiti da definire sono:
 
-*Requisitos funcionales:* Con estos requisitos describiremos detalladamente lo que realiza el sistema y como reacciona antes diferentes entradas y situaciones.  
+*Requisiti funzionali*: con questi requisiti descriveremo in dettaglio cosa fa il sistema e come reagisce a diversi input e situazioni.
 
-*Requisitos no funcionales:* Con estos requisitos detallaremos por ejemplo la capacidad de almacenamiento o la fiabilidad del sistema. Estos requisitos no incluyen como funciona el sistema.
+*Requisiti non funzionali*: con questi requisiti ci concentreremo, ad esempio, sulla capacità di archiviazione o l'affidabilità del sistema. Questi requisiti non includono il funzionamento del sistema.
 
 
-Para poder representar estos requisitos, disponemos de varias herramientas. Diagramas de flujo, de transición de estados, diagrama de clases, de Entidad/Relación o diccionario de datos.
+Per rappresentare i dati ottenuti abbiamo diverse soluzioni. Diagrammi di flusso, diagrammi di transizione di stato, diagrammi di classe, diagrammi Entità/Relazione o dizionario di dati.
 
 ![analisis_1](/analisis_problema.png)
 
-### Ejemplo de análisis
+### Esempio di analisi
 
-Leer el radio de un circunferencia y calcular e imprimir su superficie y su longitud.
+Leggere il raggio di una circonferenza e con quel dato calcolare e restituire il risultato di superficie e perimetro.
 
-**Análisis**
+**Analisi**
 
-**Definición del problema:** Tenemos que saber que es el radio de un circunferencia, y saber que es su área y su longitud. Además tenemos que saber cómo calcular el área y la longitud. Por lo tanto necesitamos saber el radio y utilizar las formulas para calcular el área y la longitud.
+**Definizione del problema:** Vogliamo sapere qual è il raggio di una circonferenza e calcolare area e perimetro. Per fare questo abbiamo bisogno di conoscere il valore del raggio e utilizzare le formule note per calcolare l'area e il perimetro.
 
-|Especificaciones||
+|Specifiche||
 |----------------|-----------------------------------------|
-|Entradas|	Radio de la circunferencia (Variable RADIO).|
-|Salidas|	Superficie de la circunferencia (Variable SUPERFICIE).  Longitud de la circunferencia (Variable LONGITUD)|
-|Variables|	RADIO, SUPERFICIE, LONGITUD de tipo REAL.|
+|Entrate|	Raggio della circonferenza (Variabile RAGGIO).|
+|Uscite|	Superficie (Variabile SUPERFICIE). Perimetro (Variabile PERIMETRO)|
+|Variabili|	RAGGIO, SUPERFICIE, PERIMETRO di tipo REALI.|
 
-Los datos de entrada y la información de salida se van a guardar en variables, donde se puede guardar datos. Las variables son de distintos tipos de datos: entero, real, cadena, booleano,..
+I dati di input e le informazioni di output verranno salvati in variabili. Le variabili possono essere diversi tipi di dati: interi, reali, stringhe, booleane,...
 
 
-### Contenido Extra:
-- [Técnicas para Identificar Requisitos Funcionales y No Funcionales](https://sites.google.com/site/metodologiareq/capitulo-ii/tecnicas-para-identificar-requisitos-funcionales-y-no-funcionales)
+### Contenuti Extra:
+- [Técnicas para Identificar Requisitos Funcionales y No Funcionales](https://sites.google.com/site/metodologiareq/capitulo-ii/tecnicas-para-identificar-requisitos-funcionales-y-no-funcionales) 
 - [Especificación de requerimientos - Universidad de Granada](https://elvex.ugr.es/idbis/db/docs/design/2-requirements.pdf)
 - [Video: Requerimientos Funcionales y No Funcionales en desarrollo de software](https://www.youtube.com/watch?v=SIr2qP59dA0)
 - [Ejemplo muy completo - Documentos requerimientos](https://www.enabel.be/sites/default/files/tenders/anexo_a_requerimientos_funcionales_y_no_funcionales.pdf)
