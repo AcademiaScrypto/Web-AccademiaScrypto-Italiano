@@ -1,37 +1,37 @@
-# Proceso Desarrollo - Diseño 2
+# Processo di Sviluppo - Progettazione 2
 
 ![diseño](/diseño.png)
 
-### Problemas complejos
+### Problemi complessi
 
-La soluciones a problemas complejos pueden requerir muchos pasos. Las estrategias seguidas usualmente a la hora de encontrar algoritmos para problemas complejos son:
+Le soluzioni a problemi complessi possono richiedere molti passaggi. Le strategie più comuni sono:
 
-- **Partición o divide y vencerás:** consiste en dividir un problema grande en unidades más pequeñas que puedan ser resueltas individualmente.
-    - Ejemplo: Podemos dividir el problema de limpiar una casa en labores más simple correspondientes a limpiar cada habitación.
-- **Resolución por analogía:** Dado un problema, se trata de recordar algún problema similar que ya esté resuelto. Los dos problemas análogos pueden incluso pertenecer a áreas de conocimiento totalmente distintas.
-    - Ejemplo: El cálculo de la media de las temperaturas de las provincias castellano manchegas y la media de las notas de los alumnos de una clase se realiza del mismo modo.
+- **Scomposizione o divide et impera:** consiste nel dividere un grande problema in unità più piccole che possono essere risolte una alla volta.
+    - Esempio: possiamo minimizzare il problema della pulizia di un’intera casa in compiti più semplici, cioè pulire una stanza per volta.
+- **Risolvere per analogia:** Dato un problema, si tratta di ricordare un compito simile che è già stato risolto. I due problemi analoghi possono anche appartenere ad aree di conoscenza completamente diverse.
+    - Esempio: Il calcolo medio delle temperature della province della Toscana e la media dei voti di una classe di studenti si realizza allo stesso modo.
 
-La descomposición del problema original en sub-problemas más simples y a continuación dividir estos sub-problemas en otros mas simples se denomina diseño descendente (top-down design). Tras la primera descripción del problema (poco específica), se realiza una siguiente descripción mas detallada con mas pasos concretos. Este proceso se denomina refinamiento del algoritmo.
+Scomporre il problema originale in sottoproblemi più facili e quindi dividere questi sottoproblemi in sottoproblemi ancora più semplici è chiamato design top-down. Dopo una prima descrizione del problema (molto vaga), segue un approccio più dettagliato con passaggi più specifici. Questo processo è chiamato raffinamento dell'algoritmo.
 
-**Ejemplo de diseño:**
+**Esempio di progettazione:**
 
-Leer el radio de un circunferencia y calcular e imprimir su superficie y su circunferencia.
+Leggi il raggio di una circonferenza e con quel dato calcola e restituisci il risultato della sua superficie e il perimetro.
 
-- Se puede dividir en tres sub-problemas más sencillos:
-    - Leer Radio
-    - Calcular Superficie
-    - Calcular Longitud
-    - Escribir resultados  
+- Può essere suddiviso in tre sottoproblemi più semplici::
+    - Leggere Raggio
+    - Calcolare Superficie
+    - Calcolare Perimetro
+    - Pubblicare i risultati  
 
-- Refinamiento del algoritmo:
-    - Leer Radio
-    - Superficie <- PI * Radio ^ 2
-    - Longitud <- 2 * PI * Radio
-    - Escribir Radio, Longitud, Superficie
-Lo podemos ver en un diagrama estructurado:
+- Raffinamento dell’algoritmo:
+    - Leggere Raggio
+    - Superficie <- PI * RAGGIO ^ 2
+    - Perimetro <- 2 * PI * RAGGIO
+    - Pubblicare RAGGIO, SUPERFICIE, PERIMETRO
+Possiamo vederlo in un diagramma strutturato:
 
 ![topdown](/algoritmo_estructurado.png)
 
-### Contenido Extra:
-- [Curso de introducción a la programación con pseudocódigo](https://plataforma.josedomingo.org/pledin/cursos/programacion/)
-- [DISEÑO ESTRUCTURADO DE ALGORITMOS](http://www.geocities.ws/apuntesitpn/dise/temario.htm)
+### Contenuti Extra:
+- [Corso di intruzione alla programmazione con pseudo-codice - SPAGNOLO](https://plataforma.josedomingo.org/pledin/cursos/programacion/)
+- [PROGETTAZIONE STRUTTURA DI ALGORITMI - SPAGNOLO](http://www.geocities.ws/apuntesitpn/dise/temario.htm)
