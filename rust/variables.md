@@ -1,9 +1,9 @@
-# Variables
-Las variables en Rust se definen mediante la palabra clave: *let* 
+# Variabili
+Le Varibiali in Rust si definiscono attraverso la parola chiave: *let*
 ::: tip
-**Las variables:** Son inmutables de forma predeterminada
+**Le Variabili:** Sono immutabili e di forma costante
 :::
-Pongamos un ejemplo. (OJO: *El siguiente código aún no se compilará.*)
+Facciamo un esempio. (OCCHIO: *Il seguente codice non verrà compilato.*)
 ```
 fn main() {
     let x = 1;
@@ -12,14 +12,14 @@ fn main() {
     println!("El valor x es: {}", x);
 }
 ```
-Leamos línea a línea:
-1. Declaramos la funcion principal 'main', de momento quedate con eso.
-2. **Aquí definimos la variable con nombre 'x' y valor 1**, utilizamos la palabra clave *let* seguido del nombre que queramos asignar a la variable más el simbolo igual (=) y el valor que queramos dar. 
-3. Pintamos, en el terminal, el valor de x
-4. Esto da error (*x=0;*), recuerda **en Rust las variables son por defecto inmutables**, es decir no se pueden cambiar su valor inicial.
-5. Esta linea no se ejecutaria, debido al error anterior. 
+Leggiamo linea per linea:
+1.	Dichiariamo la funzione principale 'main', per il momento fermiamoci qua.
+2. **Qui diamo alla variabile di nome 'x' il valore 1**, usiamo la parola chiave let seguita dal nome che vogliamo assegnare alla variabile più il simbolo di uguale (=) e il valore che vogliamo dare.
+3. Stampiamo, nel terminale, il valore di x.
+4. Si ottiene un errore (*x=0;*), ricorda che **in Rust le variabili ,per impostazione predefinita, sono immutabili,**, ovvero non è possibile modificare il loro valore iniziale.
+5. Questa riga non verrebbe eseguita, a causa dell'errore precedente.
 
-Para solucionar este problema, podríamos hacer lo siguiente:
+Per risolvere questo problema, possiamo fare quanto segue:
 ```
 fn main() {
     let mut x = 1;
@@ -28,13 +28,12 @@ fn main() {
     println!("The value of x is: {}", x);
 }
 ```
-¿Ves la diferencia?... está en la línea 2.  
-Sí, se ha incluido una nueva palabra clave: *mut* entre la palabra clave *let* y el nombre de la variable. 
-Con 'mut' la variable adquiere la mutabilidad, ahora podemos cambiar su valor tal y como se hace en la línea 4.
+Vedi la differenza?... si trova sulla riga 2.  
+Sì, una nuova parola chiave: mut è stata inclusa tra la parola chiave let il nome della variabile. Con 'mut' la variabile acquisisce mutabilità, ora possiamo cambiarne il valore come fatto nella riga 4. 
 
-::: warning Resumen
-- Las variables son inmutables por defecto
-- *let*: permite crear variables
-- *mut*: dota de mutabilidad a la variable.
+::: warning Riassunto
+- Le variabili sono immutabili per definizione
+- *let*: permette di creare variabili
+- *mut*: attribuisce mutabilità alla variabile.
 :::
 
