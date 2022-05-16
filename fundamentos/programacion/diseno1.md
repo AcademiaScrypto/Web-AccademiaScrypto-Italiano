@@ -1,57 +1,57 @@
-# Proceso Desarrollo - Diseño 1
+# Processo di Sviluppo - Progettazione 1
 
 ![diseño](/diseño.png)
 
-Durante la fase de **diseño** determinaremos el funcionamiento del software de una forma global y general sin entrar en detalles. Se crearán los diagramas y algoritmos de casos de uso y de secuencia para definir la funcionalidad del sistema. Es posible que la solución inicial no sea la más adecuada, por lo que en tal caso hay que refinarla y volver a esta fase en más de una ocasión durante el desarrollo del software.
+Durante la fase di **progettazione** determineremo il funzionamento del software in modo generale, senza entrare nei dettagli. Verranno creati diagrammi e algoritmi dei casi d'uso e della sequenza per definire le funzionalità del sistema. È possibile che la soluzione iniziale non sia delle più adatte, quindi è necessario rivederla e tornare indietro a questa fase, anche più volte, durante il processo di sviluppo. 
 
-### Algoritmos
+### Algoritmi
 
-Escribir un método lógico paso a paso para resolver los problemas es llamado **algoritmo**, en otras palabras, un algoritmo es un proceso para resolver problemas. 
+Quella strategia per cui, passo per passo, si trova un un metodo logico per risolvere un problema è chiamato **algoritmo**. In altre parole, un algoritmo è un processo atto a risolvere un problema. 
 ::: tip 
-- Para resolver un problema matemático o de computador, este es el primer paso del procedimiento. 
+- Questo è il primo passaggio da svolgere per trovare una soluzione a un problema di matematica o di computer. 
 :::
-Un algoritmo incluye cálculos, razonamiento y procesamiento de datos. Por lo tanto, la definición de algoritmo puede ser representado en lenguaje natural, pseudocódigo y diagramas de flujo entre otros.
+Un algoritmo include calcoli, ragionamento ed elaborazione dei dati. Por questo, la definizione di algoritmo può essere rappresentata a parole, in pseudocodice, con diagrammi di flusso e altro ancora...
 
-Los algoritmos son independientes tanto del lenguaje de programación como del ordenador/sistema que los ejecuta.
+Gli algoritmi sono indipendenti sia dal linguaggio di programmazione che dal computer/sistema che li esegue.
 
-Las características de los algoritmos son:
+Le caratteristiche degli algoritmi sono:
 
-- Un algoritmo debe ser preciso e indicar el orden de realización de cada paso.
-- Un algoritmo debe estar definido. Si se sigue un algoritmo dos veces, se debe obtener el mismo resultado cada vez.
-- Un algoritmo debe ser finito. Si se sigue un algoritmo, se debe terminar en algún momento; o sea, debe tener un número finito de pasos.
+- Un algoritmo deve essere preciso e indicare l'ordine di completamento a ogni passaggio.
+- Un algoritmo deve essere definito. Se un algoritmo viene seguito due volte, si dovrebbe ottenere ogni volta lo stesso risultato.
+- Un algoritmo deve essere finito. Quando viene eseguito un algoritmo, a un certo punto deve terminare; cioè, deve avere un numero finito di passaggi.
 
-### Diagrama de Flujo
+### Diagramma di Flusso
 
-Un diagrama de flujo es una representación gráfica o pictórica de un algoritmo con la ayuda de diferentes símbolos, formas y líneas de flujo para demostrar el proceso del programa. Con algoritmos, fácilmente podemos entender un programa. El propósito principal del diagrama de flujo es analizar los diferentes procesos. Muchos gráficos estándar son usados en un diagrama de flujo:
+Un diagramma di flusso è una rappresentazione grafica di un algoritmo, ed è definito con diversi simboli, forme e linee per mostrare il procedimento di sviluppo. Con gli algoritmi riusciamo facilmente a comprendere come far funzionare un programma. Lo scopo principale del diagramma di flusso è analizzare i vari processi. Alcuni dei grafici più utilizzati:
 
 ![símbolos](/simbolos.png)
 
-Si comparamos un diagrama de flujo con una película, entonces el algoritmo es la historia de esa película. En otras palabras, un algoritmo es el núcleo de un diagrama de flujo. 
+Se paragoniamo un diagramma di flusso a un film, l'algoritmo è la storia di quel film. In altre parole, un algoritmo è il nucleo di un diagramma di flusso.
 
-### Ejemplo: Imprimir del 1 al 20
+### Esempio: Eseguire i numeri da 1 a 20
 
 **Algoritmo:**
 
-Paso 1: Inicializar X como 0,
+Fase 1: Definire il valore di X come 0,
 
-Paso 2: Incrementar X por 1,
+Fase 2: Aumentare il valore di X di 1,
 
-Paso 3: Imprimir X,
+Fase 3 3: Pubblicare X,
 
-Paso 4: Si X es menor a 20 entonces vuelve al paso 2.
+Fase 4: Se il valore di X è minore di 20 allora torna alla Fase 2.
 
-**Diagrama de Flujo:**
+**Diagramma di Flusso:**
 
 ![diag_1_20](/flowchart-algorithm.png)
 
-::: tip Resumen
-- Un diagrama de flujo es una representación pictográfica de un algoritmo, un algoritmo puede ser expresado y analizado a través de un diagrama de flujo.
-- Un algoritmo usa principalmente palabras para describir los pasos mientras un diagrama de flujos se apoya en símbolos, formas y líneas de flujo para hacer el proceso de forma lógica.
+::: tip Riassunto
+- Un diagramma di flusso è la rappresentazione grafica di un algoritmo, un algoritmo può essere espresso e analizzato attraverso un diagramma di flusso.
+- Un algoritmo utilizza principalmente parole per descrivere i passaggi, mentre un diagramma di flusso si basa su simboli, forme e linee per rendere logico il processo.
 :::
 
 
-### Contenido Extra:
-- [DIAGRAMAS DE FLUJO](https://www.areatecnologia.com/diagramas-de-flujo.htm)
-- [Hacia una metodología para el diseño de contratos inteligentes](https://www.redalyc.org/journal/5122/512259512009/html/)
-- [Herramienta para escribir pseudo-lenguaje](http://pseint.sourceforge.net/slide/pseint.html)
-- [Herramienta para crear diagramas - Lucid](https://lucid.app/)
+### Contenuti Extra:
+- [DIAGRAMMA DI FLUSSO](https://it.wikipedia.org/wiki/Diagramma_di_flusso)
+- [Metodo di rappresentazione grafica degli Smart Contract - ESSAY - Spagnolo](https://www.redalyc.org/journal/5122/512259512009/html/)
+- [Strumento per scrivere uno pseudo-codice](https://pseint.it.uptodown.com/windows/download)
+- [Strumento per creare diagrammi - Lucid](https://lucid.app/)
