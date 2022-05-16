@@ -2,35 +2,35 @@
 
 # ⛓️ BlockChain
 
-### Definición:
-Blockchain es un libro mayor compartido e inmutable que facilita el proceso de registro de transacciones y de seguimiento de activos en una red de nodos que llegan a acuerdos por consenso. Prácticamente cualquier cosa de valor puede ser rastreada y comercializada en una red de blockchain, reduciendo el riesgo y los costos para todos los involucrados.
+### Definizione:
+La Blockchain è come un libro mastro, un registro digitale condiviso e immutabile, che facilita il processo di tracciamento e memorizzazione delle transazioni in una rete di nodi il cui compito è quelli di validarle. Praticamente qualsiasi cosa abbia un valore può essere tracciata e scambiata su una rete blockchain, riducendo rischi e costi per tutte le persone coinvolte.
 
-### Por qué blockchain es importante: 
-Los negocios funcionan con información. Cuanto más rápido la obtienen y más exacta es, mejor. Blockchain es ideal para obtener esa información, puesto que proporciona datos inmediatos, compartidos y completamente transparentes almacenados en un libro mayor distribuido inalterable al que únicamente los miembros autorizados tienen acceso. Una red de blockchain puede hacer seguimiento de pedidos, pagos, cuentas, detalles de producción y mucho más. Además, debido a que los usuarios comparten una única fuente fidedigna de información, puede ver todos los detalles de una transacción de principio a fin, lo que le permite generar mayor confianza y eficiencia, además de obtener más oportunidades.
+### Perchè la Blockchain è importante: 
+Gli affari si basano sulle informazioni. Più velocemente le ottengonoe e più sono precise, meglio è. La Blockchain è il sistema ideale per ottenere tali informazioni, in quanto fornisce dati immediati, condivisi e completamente trasparenti, archiviati in un registro distribuito inalterabile. Una rete blockchain può tracciare ordini, pagamenti, conti, dettagli di produzione e molto altro. Inoltre, poiché gli utenti condividono un’unica fonte di informazione, trasparente e veritiera, è possibile immagazzinare tutti i dettagli di una transazione dall'inizio alla fine. Ciò permette di sviluppare maggiore fiducia ed efficienza, nonché più opportunità.
 
-### Elementos clave de la Blockchain
-1. Tecnología de libro mayor distribuido (DLT)
-2. Registros inalterables
-3. Contratos inteligentes (Conocidos como *Componentes* en Scrypto - Radix)
+### Elementi chiave della Blockchain
+1. Decentralized Ledger Technology  (DLT)
+2. Registri inviolabili
+3. Smart Contract (Noti come *Componenti* / *Components* in Scrypto - Radix) 
 
-### Cómo funciona Blockchain
-1. A medida que se produce una transacción, se registra como un "bloque" de datos
-2. Cada bloque está conectado al bloque anterior y al bloque posterior
-3. Las transacciones se unen y forman una cadena irreversible: un blockchain
+### Come funziona la Blockchain
+1. Al verificarsi di una transazione, questa viene registrata come un "blocco" di dati
+2. Ogni blocco è collegato al blocco precedente e al blocco successivo 
+3. Le transazioni si uniscono e formano una catena irreversibile: una blockchain
 
-### Beneficios de Blockchain
-1. Mayor confianza
-2. Mayor seguridad
-3. Más eficiencia
+### Vantaggi Blockchain
+1. Maggiore fiducia
+2. Maggiore sicurezza
+3. Maggiore efficienza
 
-### Tipos de redes de Blockchain
-1. Redes públicas de blockchain (Bitcoin, Cardano)
-2. Redes privadas de blockchain (Corda, Quorum)
-3. Blockchain de consorcio (Hyperledger)
+### Tipi di rete Blockchain
+1. Reti pubbliche blockchain (Bitcoin, Cardano)
+2. Reti private blockchain (Corda, Quorum)
+3. Blockchain di società (Hyperledger)
 
-### Contenido
+### Contenuti
 - [DLT](/fundamentos/blockchain/dlt.md)
-- [Capa 1 - Layer 1](/fundamentos/blockchain/capa1.md)
+- [Layer 1](/fundamentos/blockchain/capa1.md)
 
-### Bibliografica y contenido Extra
-- [El éxito de blockchain empieza aquí](https://www.ibm.com/es-es/topics/what-is-blockchain)
+### Bibliografia e Contenuti Extra
+- [Il successo della Blockchain inizia da qui](https://www.ibm.com/es-es/topics/what-is-blockchain)

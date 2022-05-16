@@ -1,23 +1,23 @@
 # DAO
 
-### ¿Qué es una DAO?
+### Cos’è una DAO??
 
-Para entender a qué se refiere este nuevo concepto, primero, hay que entender las palabras que lo conforman.
+Per capire a cosa si riferisce questo nuovo concetto, prima di tutto, diamo un'occhiata alle parole che la compongono:
 
-1. **Organización:** grupo de individuos que se reúnen y trabajan en conjunto para lograr un objetivo y fin determinado.
-2. **Autónoma:** entidad que goza de la capacidad para actuar de forma independiente a agentes externos.
-3. **Descentralizada:** no cuenta con una autoridad central; las funciones se encuentran dispersas y cada uno de los miembros tiene el poder de emitir su voto.
+1. **Organizzazione:** gruppo di individui che si incontrano e lavorano insieme per raggiungere un obiettivo e uno scopo specifico.
+2. **Autonoma:** che ha la capacità di agire indipendentemente dagli agenti esterni.
+3. **Descentralizada:** non ha un'autorità centrale; le funzioni sono distribuite e ciascuno dei membri ha potere decisionale attraverso il voto.
 
 ![Dao](/dao.jpg)
-*(Imagen: Diferencia entre la estructura de una organización tradicional y una descentralizada)*
+*(Immagine: Differenza tra la struttura di un’organizzazione tradizionale e una decentralizzata))*
 
-Dentro de toda organización es importante conocer quién toma las decisiones y cómo lo hace. Las Organizaciones Autónomas Descentralizadas están basadas en [DLT](/fundamentos/blockchain/dlt.md) y las reglas del juego definidas dentro de smart contracts o *compoenentes* como se conocen en RadixDLT.
+All'interno di qualsiasi organizzazione è importante avere ben chiaro chi prende le decisioni e come lo fa. Le DAO si basano sulla [DLT](/fundamentos/blockchain/dlt.md). Le regole del gioco vengono definite dentro agli Smart Contract o Components (Componenti) – come vengono chiamati in RadixDLT.
 
-### Características de las DAO:
+### Caratteristiche delle DAO:
 
-- Un objetivo común que cumplir, como resolver un problema, generar valor o simplemente comprar algo
-- Gobernanza entendida como la inclusión de todos los miembros en la toma de decisiones; se busca una estructura de gobierno horizontal.
-- Bienes compartidos, el capital que se reúne le pertenece a toda la comunidad y es la misma comunidad la que a través de tokens de gobernanza emite su voto y decide que hacer con ese capital.
-- Barreras de entrada mínimas, hasta ahora suele ser poseer tokens de gobernanza.
-- Propiedad de la comunidad: en este tipo de organizaciones cualquiera que aporta valor a la organización puede ser dueño de una parte importante de la misma; no únicamente los fundadores e inversores tempranos.
+- Un obiettivo comune da raggiungere, che sia risolvere un problema, creare profitto o semplicemente acquistare qualcosa
+- Governance intesa come inclusione di tutti i membri nel processo decisionale; amministrazione di tipo orizzontale
+- Patrimonio condiviso, il capitale appartiene all'intera comunità ed è la stessa comunità che, attraverso i token di governance, esprime il proprio voto e decide cosa fare di quel capitale.
+- Barriere di entrata minime, fino ad ora si tratta solo di possedere token.
+- Proprietà della comunità: in questo tipo di organizzazione chiunque aggiunga valore all'organizzazione può possederne una parte importante; non solo i founder e primi investitori.
 
