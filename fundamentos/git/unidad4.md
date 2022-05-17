@@ -81,5 +81,5 @@ E infine eliminiamo il branch con le nuove funzionalità:
 
 ::: warning Riassunto
 - Se non sai in che branch ti trovi: ***git branch***
-- Per cambiare branch: ***git checkout branch_in_cui_vuoi_spostarti***
+- Per cambiare branch: ***git checkout branch_in_cui_vuoi_spostarti*** 
 :::
