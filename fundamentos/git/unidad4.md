@@ -48,7 +48,7 @@ Una volta fatte tutte le modifiche necessarie per aggiungere una "feature" al pr
 - Per elminare un branch dobbiamo inviare il comando:
 ```
 git branch -d nomebranch
-// Nota che per eliminare un ramo non è necessario esserci dentro.
+// Nota che per eliminare un branch non è necessario esserci dentro.
 ```
 :::
 
