@@ -1,5 +1,5 @@
 # Unidad 7
-::: tip Fecha: 29/12/2021
+::: tip Temario
 - 🔥 Fundamentos: 
     - [Programación](/fundamentos/programacion)
     - [¿Qué es Git y GitHub?](/fundamentos/git/)
@@ -14,3 +14,8 @@
 ### Ejercicios: 
 
 - ✏️ Programación: ¿Te atreves a agregar un método que devuelva el identificador del último miembro creado?
+
+### Histórico:
+------------------------------------------
+- 29/12/2021 Creación de la unidad. 
+- 15/05/2022 Actualización version 0.4 Scrypto

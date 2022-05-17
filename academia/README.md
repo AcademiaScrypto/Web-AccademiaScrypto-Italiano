@@ -1,4 +1,4 @@
-![Academia](/2_it.png)
+![Accademia](./img/banner.png)
 
 # 🏫 Accademia Scrypto v.0.4
 ## Missione
