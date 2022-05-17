@@ -1,20 +1,20 @@
-# Ramas
+# Branch
 
 ![Git básico](/git_ramas.svg)
 
-Para la creación de proyectos sencillos una buena metodología es tener una rama (branch) principal **master** y una rama **development** donde comprobaremos que todos los cambio funcionen correctamente antes de enviar a **master** y luego tendremos multiples "features branches" para que cada desarrollador pueda encargarse de una tarea definida, trabajarla y probarla a gusto antes de incluir esos cambios en la rama **development**. 
+Per la creazione di progetti semplici, un buon metodo quello di avere un ramo principale (branch) chiamato **master** e un ramo **development** dove verificheremo che tutte le modifiche funzionino correttamente prima di inviarle al **master** e quindi avremo multipli "features branches", in modo che ogni sviluppatore possa assumere un compito definito, lavorarci sopra e testarlo a proprio piacimento prima di applicare tali modifiche al ramo **development**. 
 
-### Pasos para empezar a trabajar en una feature
-Supongamos que queremos trabajar en una nueva **característica** (feature). Primero que todo debemos crear una branch exclusiva para trabajar en la feature. Esta branch debe crearse a partir de **development**, no a partir de **master**. Cuando abrimos *git* en la carpeta en la que clonamos este repositorio deberíamos ver en que rama estamos, para ello utilizaremos el siguiente comando:
+### Passaggi per iniziare a lavorare a una feature
+Supponiamo di voler lavorare a una nuova **funzione** (feature). Per prima cosa dobbiamo creare un branch esclusivamente per la feature. Questo branch deve essere creato da **development**, e non da **master**. Quando apriamo *git* nella cartella in cui cloniamo questa repository dovremmo vedere in quale ramo ci troviamo, per questo useremo il seguente comando:
 
 ```rust
 $ git branch
-* master (pude ser main u otro nombre similar)
+* master (può essere main o un altro nome simile)
 ```
-Ahora, nosotros queremos partir nuestro trabajo desde **development**, por lo que debemos movernos a esta rama:
+Ora vogliamo dividere il nostro lavoro da **development**, per cui dobbiamo muoverci in questo branch:
 
 ::: tip
-- La bandera **-b** la usaremos solo si la rama a donde queremos movernos no existe, la creara y nos moverá. 
+- Useremo **-b** solo se il branch dove vogliamo muoverci non esiste, verrà creato e ci sposteremo lì. 
 :::
 
 ```rust
@@ -22,61 +22,64 @@ $ git checkout -b development
 Switched to a new branch 'development'
 ```
 
-Lo que esto nos dice es que nuestra carpeta local ha hecho cambios para lucir como la rama **development**. Si hay diferencias entre la rama **master** y la rama development podremos verlas, por ejemplo, si es que nos falta un archivo que está en master pero no en development. **Lo importante ahora es que nos encontramos en la rama en la que queremos partir**. El siguiente paso es crear la *"feature branch"* en la que trabajaremos, para lo que debemos hacer:
+Ci dice è che la nostra cartella locale ha apportato modifiche per assomigliare al ramo **development**. Se ci sono differenze tra il ramo **master** e il ramo development potremo vederlo. Esempio, se manca un file che è in master ma non in development. **L'importante ora è che siamo nel ramo da cui vogliamo iniziare**.
+
+Il passo seguente serve per creare *"feature branch"* nella quale lavoreremo, per cui dobbiamo fare:
 
 ```rust
 $ git checkout -b feature_branch development
 Switched to a new branch 'feature_branch'
 ```
 
-Lo que esto nos dice es que hemos creado localmente una rama "feature_branch", que es una sub-rama de **development**. Pero como queremos trabajar con el servidor remoto, en este caso Github, debemos notificarle que "conecte" la rama local "feature_branch" con la branch remota "feature_branch":
+Ci dice che abbiamo creato localmente il branch "feature_branch", che è un sub-branch di **development**. Ma poiché vogliamo lavorare con il server remoto, in questo caso Github, dobbiamo notificarlo per "connettere" il ramo locale "feature_branch" con il ramo remoto "feature_branch":
 
 ```rust
 git push --set-upstream origin feature_branch
 ```
 
-Ahora estamos listos. Cuando hagamos nuestros cambios en el código, relevantes para la "feature" en la que estamos trabajando, cada vez que enviemos nuestros cambios (que hagamos *git push*), estaremos enviando los cambios a la branch "feature_branch".
+Ora siamo pronti. Quando apportiamo modifiche al codice che sono rilevanti per la funzionalità su cui stiamo lavorando, dobbiamo eseguire il push delle modifiche (*git push*), così invieremo le modifiche al ramo "feature_branch". 
 
-### Pasos para terminar de trabajar en una "feature" (característica)
+### Passaggi per completare il lavoro su una "feature" 
 
-Una vez que todos los cambios necesarios para agregar una "feature" (característica) al proyecto ya fueron hechos, están listos los tests y todos aprueban los cambios, tenemos que enviar los cambios a la rama development. Para pasar los cambios de una rama a otra haremos *code review* a través de las **Pull Requests** que Github implementa (todo esto se hace en la página de Github). Después de terminar el trabajo, solo cuando la feature ya está aplicada y testeada en development tenemos que eliminar la branch correspondiente a la feature.
+Una volta fatte tutte le modifiche necessarie per aggiungere una "feature" al progetto, i test sono pronti e gli altri sviluppatori approvano le modifiche, dobbiamo "spingere" le modifiche al ramo di sviluppo. Per passare le modifiche da un ramo all'altro faremo *code review* attraverso le **Pull Requests** che Github implementa (tutto questo viene fatto su Github). Dopo aver terminato il lavoro, solo quando la funzionalità è già applicata e testata in fase di sviluppo, dobbiamo eliminare il ramo corrispondente. 
+
 
 ::: tip
-- Para eliminar una rama debemos usar el siguiente comando:
+- Per elminare un branch dobbiamo inviare il comando:
 ```
-git branch -d nombre_rama
-// Ojo que para poder eliminar una rama no debes estar en ella.
+git branch -d nomebranch
+// Nota che per eliminare un ramo non è necessario esserci dentro.
 ```
 :::
 
-Desde Github primero seleccionaremos desde el menu horizontal **Pull Request** y segundo **Compare & pull request**:
+Da Github selezioniamo prima dal menu orizzontale **Pull Request** e dopo **Compare & pull request**:
 
 ![rama1](/git_rama1.png)
 
-Primero podemos **seleccionar las ramas a comparar**, y donde se incorporaran los cambios. Segundo podemos **comparar** el código de la rama con la nueva característica hacia la rama destino. Para terminar de verificar que todo es correcto. Y tercero, una vez todo es verificado y ok, creamos un **pull request**:
+Per prima cosa possiamo **selezionare i rami da confrontare**, e dove verranno incorporate le modifice. In secondo luogo possiamo **confrontare** il codice del branch con la nuova funzionalità del ramo di destinazione per verificare che sia tutto corretto. Terzo e ultimo passaggio, una volta che le verifiche sono state fatte, creiamo una **pull request**:
 
 ![rama1](/git_rama2.png)
 
 ::: tip
-- Si te diste cuenta, podemos dejar comentarios para explicar los cambios que vamos a aplicar. 
+- Hai notato che possiamo lasciare commenti per spiegare le modifiche che abbiamo fatto?
 :::
 
-Unimos las ramas, incorporando las nuevas características al codigo matriz.
+Uniamo i rami, incorporando le nuove funzionalità nel codice di origine.
 
 ![rama1](/git_rama3.png)
 
-Y finalmente borramos la rama con las nuevas características:
+E infine eliminiamo il branch con le nuove funzionalità:
 
 ![rama1](/git_rama4.png)
 
 ::: tip
-- Recuerda borrar localmente la rama, para que no la veas entre tus ramas.
+-  Ricordati di eliminare localmente il branch in modo da non vederlo più tra i tuoi.
 ```
  git branch -d feature_branch
 ```
 :::
 
-::: warning Resumen
-- Si no sabemos en que branch estamos: ***git branch***
-- Para cambiar de branch: ***git checkout branch_objetivo***
+::: warning Riassunto
+- Se non sai in che branch ti trovi: ***git branch***
+- Per cambiare branch: ***git checkout branch_in_cui_vuoi_spostarti***
 :::
