@@ -2,7 +2,7 @@
 
 # 🏫 Accademia Scrypto v.0.4
 ## Missione
-L'Accademia nasce con **l'obiettivo di formare** nei prossimi mesi decine di persone nello **sviluppo di "Smart Contract"**. Poco importa se non avete precedenti esperienze di programmazione o zero conoscenze del mondo 'blockchain', quello che dovete fare è solo investire un po' di tempo e denaro nell'innovazione tecnologica.    
+L'Accademia nasce con **l'obiettivo di formare** nei prossimi mesi decine di persone nello **sviluppo di "Smart Contract"**. Poco importa se non avete precedenti esperienze di programmazione o zero conoscenze del mondo 'blockchain', quello che dovete fare è solo investire un po' di tempo e denaro nell'innovazione tecnologica.
 
 Ogni settimana verranno aggiunti nuovi contenuti affinchè che tutti coloro che lo desiderano, in modo **assolutamente gratuito**, possano imparare a sviluppare 'Smart Contract', conosciuti su Radix col nome di 'Components', Componenti, che sono la base delle dApps o applicazioni decentralizzate. Allo stesso tempo, vi verranno dati gli strumenti necessari per sviluppare dApp sia dal lato **Front-End** che **Back-End**.
 
