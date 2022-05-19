@@ -2,10 +2,10 @@
 
 # 🔧Rust  
 ###
-[Rust][rust] è un linguaggio di programmazione compilato molto attuale. Ha come scopo cercare l’efficienza in termini di sicurezza, velocità e idoneo a sviluppare software di sistema concorrente.
-Rust è un progetto destinato a durare nel tempo. Se vuoi imparare un linguaggio di programmazione moderno che sia sicuro e a prova di futuro, Rust è un'ottima opzione. 
+[Rust][rust] è un linguaggio di programmazione compilato molto attuale. Ha come scopo quello di sviluppare un software di sistema concorrente grazie alla sua efficienza in termini di sicurezza e velocità.
+Rust è un progetto destinato a durare nel tempo. Se vuoi imparare un linguaggio di programmazione moderno che sia sicuro e che rimanga in voga ancora per molto, Rust è un'ottima opzione. 
 Rust è un linguaggio di programmazione multiparadigma che funziona in modo incredibilmente veloce e previene quasi tutti gli arresti anomali.
-Sebbene Rust sia classificato come un linguaggio di programmazione di sistemi, può davvero avere infiniti casi d'uso. C’è solo bisogno di impegnare un po' di tempo. In cambio, si ottiene sicurezza e velocità incredibile.
+Sebbene Rust sia classificato come un linguaggio di programmazione di sistemi, può davvero avere infiniti casi d'uso. C'è solo bisogno di investire un po' di tempo per imparare. In cambio, si ottiene sicurezza e velocità incredibili.
 
 
 
