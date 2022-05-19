@@ -1,21 +1,21 @@
-# Unidad 5
-::: tip Temario:
-- 🔥 Radix: [Composición Atómica](/radix/unidad4.md)
-- 🔧 Rust: [Estructuras](/rust/estructuras.md)
+# Unità 5
+::: tip Temi Trattati:
+- 🔥 Radix: [Atomic Composability](/radix/unidad4.md)
+- 🔧 Rust: [Strutture](/rust/estructuras.md)
 
 - ✏️ Scrypto
-    - [Conceptos básicos 5 (Documentación)](/scrypto/instalacion/documentacion.md)
-    - [Codificamos: autorizaciones, cobros](/scrypto/programacion/unidad4.md)
+    - [Concetti Base 5 (Documentazione)](/scrypto/instalacion/documentacion.md)
+    - [Programmiamo: autorizzazioni, addebiti](/scrypto/programacion/unidad4.md)
 :::
 
-### Ejercicios: 
+### Esercizi: 
 
-En esta ocasión te deje varios en la unidad de programación:
-- Dividir en sub-problemas 
-- Diseñar tus propios diagramas de algoritmos
+Questa volta avete qualche quesito da risolvere nell'unità di programmazione:
+- Dividi in sottoproblemi
+- Progetta i diagrammi di un algoritmo
 
-### Histórico:
+### Storico:
 ------------------------------------------
-- 14/12/2021 Creación de la unidad
-- 21/02/2022 Actualización version 0.3 Scrypto
-- 05/05/2022 Actualización version 0.4 Scrypto
+- 14/12/2021 Creazioni dell'unità
+- 21/02/2022 Aggiornamento versione 0.3 Scrypto
+- 05/05/2022 Aggiornamento versione 0.4 Scrypto
