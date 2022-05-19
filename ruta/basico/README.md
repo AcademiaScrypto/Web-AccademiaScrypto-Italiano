@@ -1,43 +1,43 @@
-# 🧭 Básico
+# 🧭 Livello Base
 
-Este es un nivel inicial o básico, donde podrás conocer que es Scrypto, Radix y Rust. Conseguirás poner en marcha un entorno de simulación para empezar a programar con Scrypto. Llegarás a leer, escribir y ejecutar tus propios *'contratos inteligentes'* escritos en Scrypto. A su véz comprenderás el funcionamiento de la red de Radix tanto a nivel de capa de aplicación como de consenso. Y como plus adquirirás conocimientos básicos del lenguaje Rust. 
+In queste unità potrai apprendere le nozioni base di Scrypto, Radix e Rust. Imparerai a settare il simulatore per iniziare a programmare con Scrypto. E potrai leggere, scrivere ed eseguire i tuoi *'smart contract'* formulati con Scrypto. Allo stesso tempo, capirai il funzionamento della rete Radix, dal meccanismo di consenso all'uso delle applicazioni. Infine acquisirai una conoscenza di base del linguaggio di programmazione Rust.
 
-# [Unidad 1](/ruta/basico/unidad1.md)
-- Fecha: 17/11/2021 
-- (versión 0.3 Scrypto)
+# [Unità 1](/ruta/basico/unidad1.md)
+- Data: 17/11/2021 
+- (versione 0.4 Scrypto)
 
-# [Unidad 2](/ruta/basico/unidad2.md)
-- Fecha: 24/11/2021 
-- (versión 0.3 Scrypto)
+# [Unità 2](/ruta/basico/unidad2.md)
+- Data: 24/11/2021 
+- (versione 0.4 Scrypto)
 
-# [Unidad 3](/ruta/basico/unidad3.md)
-- Fecha: 01/12/2021 
-- (versión 0.3 Scrypto)
+# [Unità 3](/ruta/basico/unidad3.md)
+- Data: 01/12/2021 
+- (versione 0.4 Scrypto)
 
-# [Unidad 4](/ruta/basico/unidad4.md)
-- Fecha: 08/12/2021 
-- (versión 0.3 Scrypto)
+# [Unità 4](/ruta/basico/unidad4.md)
+- Data: 08/12/2021 
+- (versione 0.4 Scrypto)
 
-# [Unidad 5](/ruta/basico/unidad5.md)
-- Fecha: 14/12/2021 
-- (versión 0.3 Scrypto)
+# [Unità 5](/ruta/basico/unidad5.md)
+- Data: 14/12/2021 
+- (versione 0.4 Scrypto)
 
-# [Unidad 6](/ruta/basico/unidad6.md)
-- Fecha: 23/12/2021 
-- (versión 0.3 Scrypto)
+# [Unità 6](/ruta/basico/unidad6.md)
+- Data: 23/12/2021 
+- (versione 0.4 Scrypto)
 
-# [Unidad 7](/ruta/basico/unidad7.md)
-- Fecha: 03/12/2021 
-- (versión 0.3 Scrypto)
+# [Unità 7](/ruta/basico/unidad7.md)
+- Data: 03/12/2021 
+- (versione 0.3 Scrypto)
 
-# [Unidad 8](/ruta/basico/unidad8.md)
-- Fecha: 08/01/2022 
-- (versión 0.3 Scrypto)
+# [Unità 8](/ruta/basico/unidad8.md)
+- Data: 08/01/2022 
+- (versione 0.3 Scrypto)
 
-# [Unidad 9](/ruta/basico/unidad9.md)
-- Fecha: 24/01/2022 
-- (versión 0.3 Scrypto)
+# [Unità 9](/ruta/basico/unidad9.md)
+- Data: 24/01/2022 
+- (versione 0.3 Scrypto)
 
-# [Unidad 10](/ruta/basico/unidad10.md)
-- Fecha: 28/01/2022 
-- (versión 0.3 Scrypto)
+# [Unità 10](/ruta/basico/unidad10.md)
+- Data: 28/01/2022 
+- (versione 0.3 Scrypto)

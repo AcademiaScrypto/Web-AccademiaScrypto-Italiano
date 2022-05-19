@@ -1,6 +1,6 @@
 # 🧭 Intermedio
 
-Este es un nivel intermedio, donde podrás profundizar en Scrypto, Radix y Rust.
+In questo livello intermedio potrai approfondire le tue conoscenze di Scrypto, Radix e Rust.
 
-# [Unidad 1](/ruta/intermedio/unidad1.md)
-- Fecha: 02/03/2022
+# [Unità 1](/ruta/intermedio/unidad1.md)
+- Data: 02/03/2022

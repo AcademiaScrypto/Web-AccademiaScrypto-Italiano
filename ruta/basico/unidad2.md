@@ -1,35 +1,35 @@
-# Unidad 2
-::: tip Temario:
-- 🔥 [¿Qué es Radix?](/radix/unidad1.md)
-- 🔧 [Rust: Las Variables](/rust/variables.md)
+# Unità 2
+::: tip Temi Trattati:
+- 🔥 [Cos'è Radix?](/radix/unidad1.md)
+- 🔧 [Rust: Le Variabili](/rust/variables.md)
 - ✏️ Scrypto: 
-    - 💎 [Conceptos básicos 2](/scrypto/conceptos/conceptos2.md)
-    - ⌨️ [Programación ¡Hola mundo!](/scrypto/programacion/unidad1.md)
+    - 💎 [Concetti Base 2](/scrypto/conceptos/conceptos2.md)
+    - ⌨️ [Programmazione Hello_World!](/scrypto/programacion/unidad1.md)
 :::
 
-### Ejercicios:  
+### Esercizi:  
 <br>
 <div class="alert alert-success" role="warning">
-Pregunta:
-¿Qué es *Cerberus*?  
+Domanda:
+Cos'è *Cerberus*?  
 A: Un Componente, 
-B: La capa de Consenso,
+B: Il Protocollo di Consenso,
 C: Una dApp
 </div>
 <div class="alert alert-success" role="warning">
 Completa la frase:
-Las variables en Rust por defecto son ______________.
+Le Variabili predefinite in Rust sono ______________.
 </div>
 <div class="alert alert-success" role="warning">
-¿Verdadero o Falso?: "El modelo FSM es el que garantiza el transporte de los activos entre cuentas"
+Vero o Falso?: "Il modello FSM è quello che garantisce il passaggio degli asset tra i wallet"
 </div>
 <div class="alert alert-success" role="warning">
-Manualidad: Crea tu propio "package" con scrypto
+Pratica: Crea il tuo "package" con Scrypto
 </div>
 
 
-### Histórico:
+### Storico:
 ------------------------------------------
-- 24/11/2021 Creación de unidad.
-- 20/02/2022 Actualización version 0.3 Scrypto
-- 30/04/2022 Actualización version 0.4 Scrypto
+- 24/11/2021 Creazione dell'unità.
+- 20/02/2022 Aggiornamento versione 0.3 Scrypto
+- 30/04/2022 Aggiornamento versione 0.4 Scrypto

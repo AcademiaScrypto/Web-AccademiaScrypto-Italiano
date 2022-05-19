@@ -1,34 +1,34 @@
-# Unidad 3
-::: tip Temario:
+# Unità 3
+::: tip Temi Trattati:
 - 🔥 [Radix Engine](/radix/unidad2.md)
-- 🔧 Rust: [Tipo de Datos](/rust/tipodatos.md) y [Funciones](/rust/funciones.md)
+- 🔧 Rust: [Data Types](/rust/tipodatos.md) e [Funzioni](/rust/funciones.md)
 - ✏️ Scrypto: 
-    - [Conceptos básicos 3](/scrypto/conceptos/conceptos3.md)
-    - [Simulador: ¡Hola mundo! en acción](/scrypto/programacion/unidad2.md)
+    - [Concetti Base 3](/scrypto/conceptos/conceptos3.md)
+    - [Simulatore: Hello_World! in azione](/scrypto/programacion/unidad2.md)
 :::
 
-### Ejercicios:  
+### Esercizi:  
 <br>
 <div class="alert alert-success" role="warning">
-Pregunta:
-¿Qué es Radix Engine?
-A: La Capa de Aplicación,
-B: La capa de Consenso,
-C: Un motor
+Domanda:
+Cos'è il Radix Engine?
+A: Una Applicazione,
+B: Il procollo di consenso,
+C: Un motore
 </div>
 <div class="alert alert-success" role="warning">
 Completa la frase:
-Las funciones son una de las características más ______________.
+Le funzioni sono una delle caratteristiche più ______________.
 </div>
 <div class="alert alert-success" role="warning">
-¿Verdadero o Falso?: "Scripto es un lenguaje orientado a objetos"
+Vero o Falso?: "Scrypto è un linguaggio asset-oriented"
 </div>
 <div class="alert alert-success" role="warning">
-Manualidad: Prueba cambiar el nombre y el simbolo del token que se crea con 'miprimerBluePrint. Y para nota... prueba a cambiar la cantidad de tokens que te llevas a 5 en el método free_token y traduce a español el mensaje.
+Pratica: Prova a cambiare il nome e il simbolo del token che viene creato con 'ilmioprimorBluePrint. E in ultimo... prova a cambiare la quantità di token che prelevi a 5 nel metodo free_token e traduci il messaggio in italiano.
 </div>
 
-### Histórico:
+### Storico:
 ------------------------------------------
-- 01/12/2021 Creación de la unidad
-- 20/02/2022 Actualización version 0.3 Scrypto
-- 05/05/2022 Actualización version 0.4 Scrypto
+- 01/12/2021 Creazione dell'unità
+- 20/02/2022 Aggiornamento versione 0.3 Scrypto
+- 05/05/2022 Aggiornamento versione 0.4 Scrypto

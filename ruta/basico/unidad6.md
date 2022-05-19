@@ -1,17 +1,18 @@
-# Unidad 6
-::: tip Temario:
-- 🔥 Radix: [Fragmentación](/radix/unidad5.md)
-- 🔧 Rust: [Vectores](/rust/vectores.md)
+# Unità 6
+::: tip Temi Trattati:
+- 🔥 Radix: [Sharding](/radix/unidad5.md)
+- 🔧 Rust: [Vettori](/rust/vectores.md)
 
-- ✏️ Scrypto: [Creamos nuestro primer NFT](/scrypto/programacion/unidad5.md)
+- ✏️ Scrypto: [Creiamo il nostro primo NFT](/scrypto/programacion/unidad5.md)
 :::
 
-### Ejercicios: 
+### Esercizi: 
 
-En el apartado *Creamos nuestro primer NFT* te proponemos un ejercicio, en la parte final: ¿te atreves a incluir, por ejemplo, un verificador de que nos pagan todo el precio del ticket tal y como hicimos en la unidad anterior?
+Nella sezione *Creiamo il nostro primo NFT* proponiamo un esercizio, nella parte finale della spiegazione: vuoi provare a inserire, ad esempio, un verificatore che ci paghi l'intero prezzo del ticket come abbiamo fatto nell'unità precedente?
 
-### Histórico:
+
+### Storico:
 ------------------------------------------
-- 22/12/2021 Creación de la unidad. 
-- 21/02/2022 Actualización version 0.3 Scrypto
-- 07/05/2022 Actualización version 0.4 Scrypto
+- 22/12/2021 Creazione dell'unità 
+- 21/02/2022 Aggiornamento versione 0.3 Scrypto
+- 07/05/2022 Aggiornamento versione 0.4 Scrypto
