@@ -1,67 +1,67 @@
-# Básicos remoto - GitHub
+# Lavoro in remoto - GitHub
 
 ![Git básico](/git_basico.png)
 
-::: warning Requisitos
-- [Ya deberías tener una cuenta en GitHub](/fundamentos/git/unidad1.html#crea-una-cuenta-en-github), tan solo es necesario un correo electrónico, ir al sitio web de [GitHub](https://github.com/) y rellenar el formulario de registro.
+::: warning Requisiti
+- [Dovresti già avere un account su GitHub](/fundamentos/git/unidad1.html#crea-una-cuenta-en-github), tutto ciò di cui hai bisogno è un'e-mail, vai su [GitHub](https://github.com/) e procedi con la registrazione.
 :::
 
-### Repositorios
+### Repository
 
-Los repositorios en GitHub son el lugar donde se guardan tus proyectos de forma individual. Para crear un nuevo repositorio dentro de Github:
+Le Repository su GitHub sono i 'luoghi' in cui vengono archiviati i singoli progetti. Per creare una nuovo repository all'interno di Github:
 
-1. En la esquina superior derecha de cualquier página, utiliza el menú desplegable  y selecciona Repositorio Nuevo.
+1. Nell'angolo in alto a destra di qualsiasi pagina, utilizza il menù a discesa e seleziona "New Repository".
 
 ![git1](/github_1.png)
 
-2. Teclea el nombre de tu repositorio, y una descripción opcional.
+2. Digita il nome della tua Repository, e una descrizione opzionale.
 
 ![git2](/github_2png.png)
 
-3. Elige la visibilidad del repositorio: Público o Privado (normalmente seleccionaremos público)
+3. Scegli la visibilità della tua Repository: Pubblica o Privata (normalmente si seleziona Pubblica)
 
 ![git1](/github_3.png)
 
-4. Haz clic en Crear repositorio.
+4. Clicca su "Create Repository".
 
 ![git1](/github_4.png)
 
-5. GitHub nos muestra las instrucciones a seguir para subir nuestro proyecto al *repositorio* que acabamos de crear.
+5. GitHub ci mostra le istruzioni da seguire per caricare il nostro progetto nella *repository* appena creata:
  
 ![git1](/github_5.png)
 
-### Enviar nuestro proyecto a repositorio de Github
+### Inviare il nostro progetto alla repository di Github
 
-Como vimos antes Github al crear un repositorio nuevo nos finaliza dando las instrucciones a seguir, siguiendo con el ejemplo anterior fueron las siguientes:
+CCome abbiamo visto prima, quando creiamo un nuovo repository GitHub conclude dandoci le istruzioni da seguire per caricare il nostro progetto. Nell'esempio precedente erano le seguenti:
  
 ![git1](/github_6.png)
 
-1. Entrar en el directorio de nuestro *Package* de Scrypto (con el terminal)
+1. Entrare nella directory del nostro *Package* di Scrypto (con il terminale)
 
-*Nota: Para poder seguir con los siguientes pasos ya hemos de haber iniciado git y commiteado los cambios de manera local, como se muestra en la [unidad anterior](/fundamentos/git/unidad2.md), este directorio del package.*
+*Nota: per continuare con i seguenti passaggi dobbiamo aver già avviato git e aver eseguito il commit delle modifiche localmente, come mostrato nella [unità precedente](/fundamentos/git/unidad2.md), questa directory del package.*
 
 ![git1](/github_7.png)
 
-2. Y utiliza el comando *git remote add* seguido de: nombre remoto *holamundo* (shortname) y la Url remota en este caso de nuestro repositorio git.
+2. E utilizza il comando *git remote add* seguito da: nome remoto *holamundo* (shortname) e l'Url remoto, in questo caso sarà quello della nostra repository git.
 
 ```
 git remote add holamundo https://github.com/noelserdna/scrypto-hola-mundo.git
 ```
 
 ::: tip
-- El comando *git remote* nos muestra una lista de repositorios remotos agregados.
+- Il comando *git remote* ci mostra l'elenco delle repository remote che sono state aggiunte.
 ```
 git remote
 ```
 :::
 
-3. Creamos una *rama* principal donde se guardará nuestro proyecto, en la siguiente unidad veremos lo que son las ramas y como utilizarlas. 
+3. Creamo un *branch* principale dove verrà salvato il nostro progetto, nella prossima unità vedremo cosa sono i branch e come utilizzarli. 
 
 ```
 git branch -M main
 ```
 
-4. Enviamos nuestro proyecto a GitHub con el comando *git push* seguido de la bandera *-u* que establece el repositorio como principal, el repositorio remoto que hemos agregado para este proyecto: *holamundo* y la rama que hemos establecido con el nombre *main* en el paso anterior.
+4. Inviamo il nostro progetto a GitHub con il comando *git push* seguito da *-u* che stabilisce quale sia la repository principale, cioè la repository remota che abbiamo aggiunto per sviluppare il progetto: *holamundo* e il branch a cui abbiamo dato il nome *main* nel passo precedente.
 
 ```
 git push -u holamundo main
@@ -70,7 +70,7 @@ git push -u holamundo main
 ![git1](/github_8.png)
 
 ::: tip
-- A partir de ahora normalmente solo utilizaremos el comando *git push* para subir los archivos a nuestro repositorio en Github.
+- A partire da ora utilizzeremo solo il comando *git push* per inviare i file nella nostra repository Github.
 ```
 git push
 ```

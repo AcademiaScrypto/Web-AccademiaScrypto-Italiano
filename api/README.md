@@ -1,4 +1,4 @@
-![Banner Api](/6.png)
+![Banner Api](./img/banner.png)
 
 # 🔑 Radix API
 Dall'inizio del 2022, dopo una completa ristrutturazione, Radix ci offre tre modi diversi per accedere ai dati di rete. Ciascuno risponde a diversi casi d'uso e permette agli sviluppatori di limitare l'accesso al proprio progetto secondo necessità.  

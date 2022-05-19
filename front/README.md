@@ -1,10 +1,10 @@
 # 🚪 Front-End
 
-El frontend es la parte visible o interfaz de una web o aplicación, con la cual interactúa el usuario y es conocida como “el lado del usuario”.  En este contexto, es todo lo que vemos a través de nuestra pantalla, y como usuario podemos navegar e interactuar. 
+Il front-end è la parte visibile o l'interfaccia di una pagina web/un'applicazione con cui l'utente interagisce. E' la User Experience. In questo contesto, è tutto ciò che vediamo attraverso il nostro schermo, compresa la possibilità di navigare e interagire come utente. 
 
-El frontend está compuesto de textos, colores, efectos visuales, objetos en movimiento, desplazamientos, imágenes, entre otros muchos elementos más que el usuario puede apreciar en un producto digital.
+Il front-end è composto da testi, colori, effetti visivi, oggetti in movimento, spostamenti, immagini, tutte le relazioni tra elementi digitali che l'utente può sperimentare.  
 
-- [Html](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Html](https://www.html.it)
 - [TailwindCss](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [VueJs](https://vuejs.org/)

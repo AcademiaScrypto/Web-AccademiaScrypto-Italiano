@@ -1,4 +1,4 @@
-<img :src="$withBase('/Academia.png')" alt="Academia Scrypto">
+<img :src="$withBase('/Academia_it.png')" alt="Academia Scrypto">
 
 ## Curso de Scrypto
 Aprende a desarrollar [**Contratos Inteligentes**](https://twitter.com/andresleon79/status/1446467682207928342?s=20) con **Scrypto** sin conocimientos previos y **gratis**, gracias a los patrocinadores [🏖️ Nodo Suena Merengue](https://suenamerengue.com/) y [🖐️ Club Educa Cripto](https://twitter.com/EducaCripto).  

@@ -1,48 +1,48 @@
-# Básicos local
+# Lavoro Locale - Basi
 
 ![Git básico](/git_basico.png)
 
 ### Workspace
-📁 Es la carpeta local, es decir en nuestro computador, donde tenemos guardado nuestro proyecto. Para poder inicializar una proyecto con Git utilizaremos el comando *init*:
+📁 È la cartella locale, cioè sul nostro computer, dove abbiamo salvato il nostro progetto. Per poter inizializzare un progetto con Git useremo il comando *init*:
 
 ```
-<carteta proyecto> git init
+<cartella progetto> git init
 ```
-El comando *git init* creará una carpeta oculta *.git* y un archivo *.gitignore* en la carpeta/directorio local donde lo hemos ejecutado. *(Nota: Este paso solo lo realizaremos una vez)*
+Il comando *git init* creerà una cartella nascosta *.git* e un archivo *.gitignore* nella cartella/directory locale dove lo abbiamo eseguito. *(Nota: Questo passaggio verrà eseguito solo una volta)*
 
 ### Add
-El comando *add* añade archivos al **Index** de Git. Con el *punto* después de *add* indicamos que queremos añadir todos los archivos que cuelguen del directorio actual incluidas sub-carpetas. 
+Il comando *add* aggiunge file all' **Index** di Git. Con il *punto* dopo *add* indichiamo che vogliamo aggiungere tutti i file che pendono dalla directory corrente, comprese le sottocartelle. 
 
 ```
 git add .
 ```
 
 ### Index 
-Este indice también es conocido como zona de montaje o área de preparación. En esta zona los archivos están en espera de ser guardados en repositorio. Para añadir archivos a esta área utilizaremos el comando *add* y para quitar archivos el comando *rm*.
+Questo indice è anche noto come area di montaggio o area di preparazione. In quest'area i file sono in attesa di essere salvati nella repository. Per aggiungere file a quest'area useremo il comando *add* e per rimuovere i file il comando *rm*. 
 
 ```
 git status
 ```
-El comando *status* nos muestra el estado de los archivos en el *index*.
+Il comando *status* ci mostra lo stato dei nostri file nell' *index*.
 
 ### Commit
-La instrucción *commit* guarda todos los cambios realizados en los archivos que se encuentren en el *index de git* o área de montaje junto con una breve descripción del usuario que permitirá identificar rápidamente el conjunto de cambios guardados. La opción *-m* nos permite incluir un mensaje de no más de 50 caracteres. Estos mensajes de ven ser muy declarativos con el fin de ayudar en la comprensión del histórico de cambios. 
+Il comando *commit* salva tutte le modifiche apportate ai file trovati nell'indice *git*. Insieme a una breve descrizione fatta dall'utente permetterà di sapere rapidamente cosa è stato cambiato. L'opzione *-m* ci consente di includere un messaggio di non più di 50 caratteri. Questi messaggi sono molto importanti e devono essere precisi per aiutare a capire l'entità delle modifiche apportate.
 
 ```
-git commit -m "mensaje de nos mas de 50 caracteres"
+git commit -m "messaggio di non più di 50 caratteri"
 ```
 
 ### Repository
 
-Es el lugar donde se guarda la colección de archivos con todas sus diferentes versiones. 
+È il luogo in cui viene conservata la raccolta di file con tutte le loro diverse versioni.
 
 ```
 git log
 ```
-El comando log nos muestra el listado de *commits* guardados en el Repository.
+Il comando log ci mostra l'elenco dei *commit* salvati nella Repository.
 
 ::: tip
-- Hasta aquí sería el ciclo de vida con Git de forma local, básicamente:  
+- Qui finisce l'utilizzo di Git in forma locale. Il ciclo va da:  
 add -> commit
 :::
 

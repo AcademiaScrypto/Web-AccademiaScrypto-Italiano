@@ -14,3 +14,8 @@
 ### Esercizi: 
 
 - ✏️ Programmazione: Hai il coraggio di aggiungere un metodo che restituisca il badge dell'ultimo membro creato?
+
+### Histórico:
+------------------------------------------
+- 29/12/2021 Creación de la unidad. 
+- 15/05/2022 Actualización version 0.4 Scrypto

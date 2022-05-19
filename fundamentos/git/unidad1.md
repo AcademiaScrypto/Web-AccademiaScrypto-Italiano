@@ -1,40 +1,40 @@
-# Instalación
+# Installazione
 
-### Instalación de Git
+### Installazione di Git
 
 ::: tip
-- Si ya instalaste el [Simulador de Scrypto](/scrypto/instalacion/instalacion.md) en el segundo paso ya instalaste Git en tu máquina.
+- Se hai già installato il [Simulatore di Scrypto](/scrypto/instalacion/instalacion.md) al secondo passo hai già installato Git nel tuo computer.
 :::
 
 - Windows:
-    Descargar e instalar: [Git](https://git-scm.com/download/win)
+    Scaricare e installare: [Git](https://git-scm.com/download/win)
     ::: warning
-    - El único sitio donde puedes tener dudas es en el paso que te dice si quieres instalarlo (recomendado) como **comando en la línea de comandos** de tu consola o si simplemente quieres el "git bash". Para verificar si lo tienes instalado en tu línea de comandos puedes ejecutar el siguiente código:
+    - L'unico punto su cui puoi avere dei dubbi è nel passaggio che ti dice se vuoi installarlo (consigliato) come  **comando nella riga di comando** della sua console o vuoi semplicemente "git bash". Per verificare se lo hai installato digita il codice nel Command Prompt:
     ```
     git version
     ```
     :::
 - Linux y macOS
-    Instalar C++ y Git:
+    Installare C++ e Git:
     ```
     sudo apt install build-essential
     ```
-    Seguir los pasos: [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
+    Segui tutti i passi: [Git](https://wiki.ubuntu-it.org/Programmazione/Git)
 
-Primeros pasos con Git, introduce tus datos, no es necesario cuando trabajas solo pero si cuando lo haces en equipo:
+Primi passi con Git: inserisci i tuoi dati, non è necessario quando lavori da solo, ma se sei in un gruppo sì:
 ```
-git config --global user.name "Tu nombre"
-git config --global user.email "Tu correo"
+git config --global user.name "Tuo nome utente"
+git config --global user.email "Tua email"
 ```
 
-### Crea una cuenta en [GitHub](https://github.com/)
+### Creare un account su [GitHub](https://github.com/)
 
 
-[Tal y como vimos](/fundamentos/git), **GitHub*** es una plataforma basa en **Git** que nos va a permitir trabajar de forma colaborativa.
+[Così come abbiamo visto](/fundamentos/git), **GitHub*** è una piattaforma basata su **Git** che ci permette di lavorare insieme ad altre persone.
 
 
 ::: tip
-- Subir nuestros código a GitHub nos permitirá ir creando un *portafolio* para dar a conocer nuestro trabajo y habilidades. 
+- Il caricamento del nostro codice su GitHub ci consentirà di creare un *portfolio* per pubblicizzare il nostro lavoro e le nostre capacità.
 :::
 
-**Importante:** No olvides inscribirte en el programa [**Radix Developer Program**](https://developers.radixdlt.com/devprogram) donde podrás seguir **aprendiendo**, **ganar recompensas**, **obtener reconocimiento como desarrollador** y **acceso temprano y exclusivo a nuevas funciones y herramientas**. *(Nota: para la inscripción es necesaria una cuenta en GitHub.)*
+**Importante:** non dimenticare di iscriverti al [**Radix Developer Program**](https://developers.radixdlt.com/devprogram) dove puoi continuare ad **imparare**, **guadagnare ricompense**, **guadagnare riconoscimento come programmatore** e **ottenere l'accesso esclusivo a nuove funzioni e strumenti**. *(Nota: per l'iscrizione è necessario avere un account su GitHub.)*

@@ -1,23 +1,21 @@
 ![banner programación](/programacion.png)
 
-# 👩‍💻 Programación
+# 👩‍💻 Programmazione
 
 ### ¿Qué es programar?
 
-- 🤣 Decirle a un 'tonto muy rápido' exactamente lo que tiene que hacer.
+- 🤓 Programmare significare creare un insieme di istruzioni che indicano al computer cosa fare.  
 
-- 🤓 Programar es el proceso de crear un conjunto de instrucciones para decirle a una computadora cómo realizar una tarea. 
+- 🤖 Programmare significa preparare macchine o dispositivi perché lavorino quando vogliamo e come vogliamo.
 
-- 🤖 Programar es preparar máquinas o aparatos para que funcionen en el momento que deseamos y en la forma que se busca.
+- 👩‍🏫 Programmare non è solo inserire un codice con determinate specifiche e aspettarsi che vengano eseguite le azioni richieste. La programmazione va oltre, è un’altra lingua. Apprenderla ci permette di comunicare direttamente con l'ambiente tecnologico che ci circonda.
 
-- 👩‍🏫 Programar no es solo ingresar un código con ciertas especificaciones y esperar que realice las acciones requeridas. Más allá de eso, la programación es un idioma más y aprenderlo nos beneficia y ayuda a lograr una comunicación directa con el ambiente tecnológico que nos rodea.
+- 👩‍🎨 La programmazione è l'arte di creare soluzioni da zero a paradigmi complessi basati sul pensiero strutturato, logico e creativo.
 
-- 👩‍🎨 Programar es el arte de crear soluciones desde cero a paradigmas complejos a base de un pensamiento estructurado, lógico y creativo.
+### Vantaggi di saper programmare
 
-### Beneficios de la programación
+- Imparare a programmare può aprire le porte a un **lavoro migliore**, a nuove aree di impiego o anche a un nuovo modo di vedere come funziona il tutto intorno a noi.
 
-- Aprender a programar puede abrirte las puertas a un **mejor empleo**, nuevas áreas de trabajo o incluso a una nueva forma de ver cómo funciona todo a nuestro alrededor.
+- "Tutti dovrebbero imparare a programmare un computer... perché questo **ti insegna a pensare"**.” –Steve Jobs.
 
-- ”Todos en el país deberían aprender a programar un ordenador... porque eso **te enseña a pensar**.” –Steve Jobs.
-
-- La programación puede permitirte **potenciar tu conocimiento** en otras áreas con el fin de afianzar y reforzar el crecimiento y nacimiento de otros negocios. Lo que hará más fácil o accesible el emprendimiento con este tipo de conocimiento extra.
+- La programmazione ti permette di **approfondire le tue conoscenze** in nuovi settori. Ne giovano le imprese già rodate e quelle che nasceranno. Così l'imprenditorialità diventerà più accessibile. 
