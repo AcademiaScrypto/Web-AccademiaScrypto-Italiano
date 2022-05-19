@@ -14,7 +14,7 @@ $ git branch
 Ora vogliamo dividere il nostro lavoro da **development**, per cui dobbiamo muoverci in questo branch:
 
 ::: tip
-- Useremo **-b** solo se il branch dove vogliamo muoverci non esiste, verrà creato e ci sposteremo lì. 
+- Useremo **-b** solo se il branch dove vogliamo muoverci non esiste. Il ramo verrà creato e ci sposteremo lì. 
 :::
 
 ```rust
