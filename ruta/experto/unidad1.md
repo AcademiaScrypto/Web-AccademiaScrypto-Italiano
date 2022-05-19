@@ -1,1 +1,1 @@
-# 🧭 Experto
+# 🧭 Esperto
