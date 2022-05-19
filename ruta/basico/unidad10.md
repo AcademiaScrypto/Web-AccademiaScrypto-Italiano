@@ -1,19 +1,19 @@
 # Unidad 10
-::: tip Fecha: 26/02/2022
-- 🔥 Fundamentos: 
-    - [Proceso Desarrollo - Diseño 2](/fundamentos/programacion/diseño2.md)
+::: tip Data: 26/02/2022
+- 🔥 Fundamenti: 
+    - [Processo di Programmazione - Progettazione 2](/fundamentos/programacion/diseño2.md)
 - 🔧 Rust:
     - [HashMaps](/rust/hashmap.md)
 - ✏️ Scrypto
-    - [Lista de Boda + NFT](/scrypto/programacion/unidad9.md)
+    - [Lista Nozze + NFT](/scrypto/programacion/unidad9.md)
 :::
 
-### Evaluación fin de ruta básica:
-Para poder acceder a las unidades del nivel intermedio has de pasar una evaluación de conocimientos.
+### Valutazione di base di fine percorso:
+Per accedere alle unità di livello intermedio è necessario superare un test.
 
-Te pediré que me pases por privado el repositorio de Github donde hayas subido tu Blueprint con el componente que resuelva el problema que te voy a plantear:
+Ti chiederò di inviarmi in privato il repository Github dove hai caricato il tuo Blueprint in cui è presente il Componente che risolve il problema che mi accingo a porre:
 
-Problema: Nos piden crear un sistema de reparto de tokens (airdrop). Una empresa tecnológica ha creado un token llamado "Jamon" con un símbolo "JMN" con un suministro de 100000000 de tokens. Quieren repartir un 20% del suministro entre aquellas personas que los solicite. A las primeras 20 personas que lo soliciten le van a dar un 1% de lo dispuesto a repartir. A las siguientes 30 personas el 0.5% y un 0.1% hasta terminar lo dispuesto a repartir.
+Problema: ci viene chiesto di creare un sistema di distribuzione dei token (airdrop). Un'azienda ha creato un token chiamato "Prosciutto" con il simbolo "PRTT" con una fornitura di 100.000.000 di token. Vogliono distribuire il 20% della fornitura tra coloro che ne fanno richiesta. Le prime 20 persone che lo richiederanno riceveranno l'1% di 20% che vogliono distribuire. Alle successive 30 persone, lo 0,5%, poi 0,1% fino alla fine dell'airdrop.
 
 
 
